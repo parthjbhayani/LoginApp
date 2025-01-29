@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login App</string>
+
+    <!-- Text Strings -->
+    <string name="text_test">Test</string>
+
+    <!-- Label Strings -->
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+
+    <!-- Place Holder Strings -->
+    <string name="place_holder_enter_username">Please enter username</string>
+    <string name="place_holder_enter_password">Please enter password</string>
+
+    <!-- Action Buttons -->
+    <string name="action_submit">SUBMIT</string>
+
+    <!-- Toast Messages -->
+    <string name="toast_message_login_successful">You are successfully logged in.</string>
+
+    <!-- Log Messages -->
+    <string name="log_username_and_password">Email: %s, Password: %s</string>
+</resources>
